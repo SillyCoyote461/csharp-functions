@@ -1,6 +1,4 @@
 ﻿//Console input
-using System.Reflection.Metadata.Ecma335;
-
 Console.Write("How many numbers do you want to elaborate? ");
 int n = Convert.ToInt32(Console.ReadLine());
 
